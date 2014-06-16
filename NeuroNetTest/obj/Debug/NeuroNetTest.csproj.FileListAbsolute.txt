@@ -1,0 +1,14 @@
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNetTest.dll
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNetTest.pdb
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNet.exe
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNet.pdb
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.dll
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.pdb
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNetTest.dll
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNetTest.pdb
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNet.exe
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\bin\Debug\NeuroNet.pdb
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.csprojResolveAssemblyReference.cache
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.dll
+F:\Учеба\Projects\NeuroNet\NeuroNetTest\obj\Debug\NeuroNetTest.pdb

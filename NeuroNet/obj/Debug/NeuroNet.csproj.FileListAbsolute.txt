@@ -1,0 +1,32 @@
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\bin\Debug\NeuroNet.exe
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\bin\Debug\NeuroNet.pdb
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet_MarkupCompile.cache
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.g.resources
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.Properties.Resources.resources
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.csproj.GenerateResource.Cache
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.exe
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.pdb
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.csprojResolveAssemblyReference.cache
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\Style\LightTheme\Theme.baml
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\Style\VS2012Style.baml
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\App.baml
+C:\Users\Evgeniy\Documents\Visual Studio 2013\Projects\NeuroNet\NeuroNet\obj\Debug\Style\VS2012Style.g.cs
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.exe
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.pdb
+F:\Учеба\Projects\NeuroNet\NeuroNet\bin\Debug\NeuroNet.exe
+F:\Учеба\Projects\NeuroNet\NeuroNet\bin\Debug\NeuroNet.pdb
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.csprojResolveAssemblyReference.cache
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\MainWindow.baml
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\Style\LightTheme\Theme.baml
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\Style\VS2012Style.baml
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\App.baml
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\MainWindow.g.cs
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\Style\VS2012Style.g.cs
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\App.g.cs
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet_MarkupCompile.cache
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.g.resources
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.Properties.Resources.resources
+F:\Учеба\Projects\NeuroNet\NeuroNet\obj\Debug\NeuroNet.csproj.GenerateResource.Cache
